@@ -1,4 +1,4 @@
-version: "22.1.2"
+version: "2.1"
 services:
   worker:
     build: .
